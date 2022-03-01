@@ -7,7 +7,7 @@ if(a>10)
 {
 console.log("no is greater than 10");
 }
-elseif(a=10)
+else if(a=10)
 {
 console.log("no is equals to 10");
 }
@@ -23,7 +23,7 @@ if(a>b&&a>c)
 {
   console.log("a is greatest");
 }
-elseif(b>c&&b>a)
+else if(b>c&&b>a)
 {
   console.log("b is greatest");
 }

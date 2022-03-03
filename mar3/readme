@@ -1,0 +1,39 @@
+Data type:
+
+2. Data type check?
+->typeof operator.
+
+Unary operator=it takes only on 1 operand 
+typeof operator
+
+
+Binary operator=it takes 2 operands (ex=+,-,*,/,%)
+
+Ternary operator -it takes 3 operands ?
+
+
+3. Nesting ->(if, while, switch, loop,function, array) , having 1 inside another is called nesting.
+
+4. if -else==    else is optional, we can have if without else, and opposite is not true.
+
+
+5. else if ->if/else if/else if/else if/else(optional).
+
+6. Indentation-> it is a space which is given before starting the line of code. helpful in alignment(2 spaces or 4 spaces).
+
+7. Array-> COllection of data 
+it can be hetrogeneus or homogeneus-same type
+[].
+Collection of elements
+elements are seperated by comma
+Create , Read  , update , Insert
+
+
+
+Assignment-> Take the input from user . it has to be dynamic. I can eneterr 3 number or 30 numbers. It should give me maximum of all of them. Use array.
+
+
+
+
+
+

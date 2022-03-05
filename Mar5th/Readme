@@ -1,0 +1,37 @@
+Array= Collection of elem
+
+Condidtion=if , else if, 
+
+Loop:
+1. While
+2. Do while
+3. For
+
+
+1. While-Executr the code inside the curly braces until the condn becomes false
+If u dont know the count then us while loop
+
+while(image!=null){
+    
+}
+
+
+2. Do WHile= do{
+
+}while(n<29);   run the loop atlkest once we use do-while
+
+3. For Loop= When we know the count .
+
+     1    2    4
+for(i=1;i<=10;i++){
+   3 console.log(i);
+}
+
+
+
+Assignment=take n input from user and print all numbers in reverse order = n=5
+5,4,3,2,1
+
+Assignment2= PRint first n numbers of fibonacci series- 0,1,1,2,3,5,8,13
+
+

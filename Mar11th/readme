@@ -1,0 +1,52 @@
+Switch=  It is a specialized if else laddder where we compare one var with different values.
+
+Objects:It is a collection of key value pair.(Hetrogeneous)
+
+      value
+arr1=[22,"shubha",66]
+    arr1[0]
+    key
+Syntax of OBJ==
+
+var Objname={
+"key":"value",
+number:number,
+
+
+}
+
+Stntax to delete key value
+
+delete objname.key;
+
+Syntax to access keys
+
+Object.keys(Objname);
+Object.values(Objname);
+
+
+To Create Obj inside Obj
+
+Obj.new_Objectname={};
+To push data in new obj
+
+Obj.new_Objectname.key="value";
+
+To Create Array inside Obj
+
+
+
+
+Assignment=
+User will give a string , return the count of vowels
+
+manthan=2
+shubham=2
+
+Assignment2:User enter a number , check whether the number is prime or not (If user enter abcd error).
+
+
+
+
+
+

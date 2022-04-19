@@ -1,0 +1,47 @@
+button{
+    font-size: 250%;
+    border-width: 15px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+input{
+    font-size: 200%;
+    margin-top: 20px;
+   
+}
+
+.center-text{
+    text-align: center;
+    margin-top: 50px;
+
+    color: blueviolet;
+    background-color: aqua;
+}
+
+
+#special{
+    text-align: center;
+    font-size: 250%;
+    color: cadetblue;
+
+
+}
+
+
+[abcd="XYZ"]{
+    color: blueviolet;
+    font-size: 250%;
+    text-align: center;
+}
+
+#parrot{
+    width: 200px;
+ 
+
+
+}
+
+
+
+

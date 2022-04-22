@@ -1,0 +1,46 @@
+h3{
+ cursor: progress;
+} */
+
+button:hover{
+    color: aquamarine;
+    background-color: blue;
+    font-size: 180%;
+} */
+
+button:active{
+    background-color: green;
+    font-size: 180%;
+}
+
+
+ .green-button:hover{
+   background-color: darkgreen;
+   font-size: 180%;
+}
+
+a > img{
+   width: 200px;
+}
+
+
+img{
+    width: 300px;
+}
+
+img:hover{
+    width: 800px;
+}
+
+/* *{
+    background-color: blue;
+    text-align: center;
+    font-size: 150%;
+} */
+
+ /* *:hover{
+    background-color: grey;
+    color: pink;
+}
+
+

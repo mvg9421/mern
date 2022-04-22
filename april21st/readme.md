@@ -25,3 +25,6 @@ Layouting technique:the processs of distributing the webpage into parts .
       justify-content: space-evenly;=space evenly between 2 elements
 
       justify-content: space-around;
+Assignment=
+
+Gallery=recreate= flex , div, 

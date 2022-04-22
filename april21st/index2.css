@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+}
+img{
+    width: 180px;
+    height: 90px;
+    max-width: 240px;
+    max-height: 130px;
+}
+
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+   /* row-gap: 10px; */
+  /* column-gap: 10px;  */
+  gap: 10px;
+
+
+
+
+
+}
+
+.myname{
+    display: flex;
+    column-gap: 40px;
+
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+
+.space-evenly{
+    justify-content: space-evenly;
+}
+
+
+.space-around{
+    justify-content: space-around;
+}
+
+

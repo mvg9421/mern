@@ -1,0 +1,132 @@
+/* h2:hover{
+    color: red;
+    text-decoration: underline; */
+    /* text-decoration: line-through; */
+    /* cursor: pointer;
+
+    
+
+} */
+
+h2{
+    color: black;
+    text-decoration: underline;
+    /* text-decoration: line-through; */
+    cursor: pointer;
+    background-color: red;
+    /* padding: 50px; */
+
+    margin-top: 40px;
+    padding-top: 40px;
+
+
+}
+
+
+
+
+
+.applynow_btn{
+    text-decoration: none;
+    /* color: black; */
+  background-color: rgb(41, 180, 117);
+  /* color: rgb(41, 180, 117); */
+  padding: 30px;
+
+
+}
+
+
+input:focus{
+background-color: yellow;
+}
+
+input:hover{
+    background-color: red;
+}
+
+
+
+body{
+    margin: 0px;
+}
+
+
+.margin{
+    margin: 60px;
+}
+
+.padding{
+    padding: 20px;
+}
+
+/* li{
+    background-color: red;
+} */
+
+/* li:nth-child(2){
+    background-color: red;
+    color: yellow;
+    font-size: x-large;
+
+}
+
+li:nth-child(5){
+   color: orange;
+} */
+
+/* li:nth-child(odd){
+   background-color: red;
+}
+
+li:nth-child(even){
+    background-color: grey;
+} */
+
+/* 
+li:first-child{
+    background-color: blue;
+}
+
+
+li:last-child{
+    background-color: brown;
+} */
+
+
+li:nth-child(2n){
+    background-color: blue;
+}
+
+
+li:nth-child(2n+1){
+    background-color: red;
+}
+
+button{
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+   
+
+    /* padding-top: 10PX;
+    padding-bottom: 20PX;
+    padding-left: 20PX;
+    padding-right: 30px; */
+/* 
+    padding:10px 30px 30px 30px ; */
+    /* padding: 20px 40px 90px; */
+
+    /* padding: 30px 30px; */
+    padding: 40px;
+
+
+
+}
+
+/* 
+SHorthand for padding */
+
+
+
